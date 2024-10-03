@@ -1,11 +1,9 @@
 package com.example.storeapp;
-import android.app.ActionBar;
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.provider.ContactsContract;
 import androidx.annotation.Nullable;
 public class DatabaseHelper extends SQLiteOpenHelper {
     public static final String Database_name = "Students.db";

@@ -1,5 +1,4 @@
 package com.example.storeapp;
-
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import android.database.Cursor;
